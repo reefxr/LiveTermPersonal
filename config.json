@@ -1,7 +1,7 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/reefxr/reefxr/refs/heads/main/README.md",
-  "title": "reefxr",
-  "name": "Also known as Kai",
+  "title": "reefxr's website",
+  "name": "also known as kai",
   "ascii": "reefxr",
   "social": {
     "github": "https://github.com/reefxr",
@@ -9,12 +9,12 @@
   },
   "email": "keykjjong@email.com",
   "ps1_hostname": "reefxr",
-  "ps1_username": "visitor",
+  "ps1_username": "guest",
   "repo": "https://github.com/reefxr/LiveTermPersonal",
   "resume_url": "SOON",
   "donate_urls": {
-    "gcash": "SOON",
-    "maya": "SOON"
+    "paypal": "SOON - TO BE ADDED",
+    "patreon": "SOON - TO BE ADDED"
   },
   "colors": {
     "light": {
